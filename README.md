@@ -1,4 +1,5 @@
 Sigma3D Dual-X 3D Firmware v2 based on Marlin
+
 Proceed with Caution!
 
 ![Sigma3D Dual-X 3D Printer](https://thingiverse-production-new.s3.amazonaws.com/assets/98/db/d0/10/79/preview.JPG)
