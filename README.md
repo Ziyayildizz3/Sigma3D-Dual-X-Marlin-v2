@@ -17,3 +17,9 @@ Features
 * Insert/Remove filament
 
 * Refined firmware for better printing experience.
+
+* Acceleration control
+
+* POWER LOSS RECOVERY
+
+* Double fan pwm control
